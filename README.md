@@ -35,9 +35,9 @@ For each Category, I will find the Count of records.
       * AUTO_AND_VEHICLES     Used Cars and Trucks for Sale
 
 3. Reducer output:  example of a final key, value pair output by reducer.
-   * Category = ART_AND_DESIGN     Count of records = 49
+   - Category = ART_AND_DESIGN     Count of records = 49
    
 4. Chart I will use to display results
-   * I will use Bar Chart to display my results.
+   - I will use Bar Chart to display my results.
 
 
