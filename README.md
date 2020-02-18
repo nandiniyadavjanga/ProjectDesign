@@ -21,7 +21,7 @@ We are working on the data which gives information about the mobile appications.
 For each Category, I will find the Count of records.
 ## Big Data Solution(Chaitra Vemula)
 1. Mapper input: One line of data that mapper read:
-- Photo Editor & Candy Camera & Grid & ScrapBook	ART_AND_DESIGN	4.1	159	19M	10,000+	Free	0	Everyone	Art & Design	43107	1.0.0	   4.0.3 and up	
+   - Photo Editor & Candy Camera & Grid & ScrapBook	ART_AND_DESIGN	4.1	159	19M	10,000+	Free	0	Everyone	Art & Design	43107	1.0.0	   4.0.3 and up	
 2. Mapper output/Reducer input: example of an intermediate key,value pair output by mapper
       * ART_AND_DESIGN                Paint Splash!  
       * ART_AND_DESIGN        Popsicle Sticks and Similar DIY Craft Ideas
