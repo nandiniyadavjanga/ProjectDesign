@@ -25,14 +25,14 @@ For each Category, I will find the Count of records.
 2. Mapper output/Reducer input: example of an intermediate key,value pair output by mapper
       * ART_AND_DESIGN        Paint Splash!  
       * ART_AND_DESIGN        Popsicle Sticks and Similar DIY Craft Ideas
-        ART_AND_DESIGN        Canva: Poster, banner, card maker & graphic design
-        ART_AND_DESIGN        Install images with music to make video without Net - 2018
-        ART_AND_DESIGN        Little Teddy Bear Colouring Book Game
-        ART_AND_DESIGN        How To Draw Food
-        AUTO_AND_VEHICLES     Monster Truck Stunt 3D 2019
-        AUTO_AND_VEHICLES     Real Tractor Farming
-        AUTO_AND_VEHICLES     Ultimate F1 Racing Championship
-        AUTO_AND_VEHICLES     Used Cars and Trucks for Sale
+      * ART_AND_DESIGN        Canva: Poster, banner, card maker & graphic design
+      * ART_AND_DESIGN        Install images with music to make video without Net - 2018
+      * ART_AND_DESIGN        Little Teddy Bear Colouring Book Game
+      * ART_AND_DESIGN        How To Draw Food
+      * AUTO_AND_VEHICLES     Monster Truck Stunt 3D 2019
+      * AUTO_AND_VEHICLES     Real Tractor Farming
+      * AUTO_AND_VEHICLES     Ultimate F1 Racing Championship
+      * AUTO_AND_VEHICLES     Used Cars and Trucks for Sale
 
 3. Reducer output:  example of a final key, value pair output by reducer.
    1. Category = ART_AND_DESIGN     Count of records = 49
