@@ -40,4 +40,26 @@ For each Category, I will find the Count of records.
 4. Chart I will use to display results
    - I will use Bar Chart to display my results.
 
+## Big Data Problem(Abhishek Telugu)
+For each Category, I will find minimum of their rating.
+## Big Data Solution(Abhishek Telugu)
+1. Mapper input: One line of data that mapper read:
+   - Photo Editor & Candy Camera & Grid & ScrapBook	ART_AND_DESIGN	4.1	159	19M	10,000+	Free	0	Everyone	Art & Design	43107	1.0.0	   4.0.3 and up	
+2. Mapper output/Reducer input: example of an intermediate key,value pair output by mapper
+      * ART_AND_DESIGN        4.1
+      * ART_AND_DESIGN        3.9
+      * ART_AND_DESIGN        4.7
+      * ART_AND_DESIGN        4.5
+      * ART_AND_DESIGN        4.3
+      * ART_AND_DESIGN        4.4
+      * AUTO_AND_VEHICLES     3.8
+      * AUTO_AND_VEHICLES     4.1
+      * AUTO_AND_VEHICLES     4.4
+      * AUTO_AND_VEHICLES     4.7
+
+3. Reducer output:  example of a final key, value pair output by reducer.
+   - Category = ART_AND_DESIGN     minimum of rating = 3.2
+   
+4. Chart I will use to display results
+   - I will use Bar Chart to display my results.
 
