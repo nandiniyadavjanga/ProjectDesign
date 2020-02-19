@@ -10,6 +10,9 @@
 1. [GitHub Issue Tracker](https://github.com/nandiniyadavjanga/ProjectDesign/issues)
 ## Introduction: 
 We are working on the data which gives information about the mobile appications. While many public datasets (on Kaggle and the like) provide Apple App Store data, there are not many counterpart datasets available for Google Play Store apps anywhere on the web. 
+## DataSource: 
+Our data has 13 columns and 10842 rows. The volume of data is 9MB. It is structured data set available in CSV format. The data is clean and not messy. The velocity of dataset is slow as it is updated yearly. From the dataset we can know which category of applications are in demand.
+- [Link to DataSource](https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore.csv)
 
 
 
