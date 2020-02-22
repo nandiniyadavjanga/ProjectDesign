@@ -14,4 +14,4 @@ for line in input:
  
 input.close()
 output.close()
-print(output)
+

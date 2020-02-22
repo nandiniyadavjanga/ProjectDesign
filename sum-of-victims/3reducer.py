@@ -25,4 +25,3 @@ r.write(thisKey + '\t' + str(thisValue)+'\n')
 
 s.close()
 r.close()
-print(r)
