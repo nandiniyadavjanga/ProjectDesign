@@ -1,0 +1,11 @@
+Ciutat Vella	634
+Eixample	3562
+Gràcia	588
+Horta-Guinardó	839
+Les Corts	894
+Nou Barris	661
+Sant Andreu	704
+Sant Martí	1645
+Sants-Montjuïc	1329
+Sarrià-Sant Gervasi	1290
+Unknown	40

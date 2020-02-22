@@ -1,0 +1,10339 @@
+Unknown	2
+Unknown	2
+Unknown	5
+Unknown	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	2
+Sant Martí	5
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	3
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	4
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Ciutat Vella	3
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	0
+Ciutat Vella	0
+Ciutat Vella	3
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	3
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	3
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	0
+Ciutat Vella	3
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Eixample	1
+Ciutat Vella	0
+Ciutat Vella	1
+Eixample	1
+Ciutat Vella	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Ciutat Vella	1
+Ciutat Vella	2
+Eixample	1
+Eixample	0
+Eixample	3
+Eixample	2
+Eixample	0
+Eixample	0
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	5
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	2
+Eixample	1
+Sants-Montjuïc	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	8
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	5
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	3
+Sants-Montjuïc	9
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Les Corts	1
+Sants-Montjuïc	1
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Sants-Montjuïc	1
+Les Corts	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	3
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Les Corts	2
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	4
+Sarrià-Sant Gervasi	1
+Les Corts	3
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	3
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	3
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	3
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	0
+Gràcia	0
+Gràcia	3
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	0
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	3
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	4
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	2
+Horta-Guinardó	6
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	2
+Nou Barris	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Nou Barris	0
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	0
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	4
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	2
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	4
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	5
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	5
+Sant Andreu	4
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	5
+Sant Andreu	2
+Sant Andreu	4
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	4
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	0
+Unknown	2
+Unknown	1
+Unknown	1
+Unknown	1
+Unknown	2
+Unknown	0
+Unknown	2
+Sant Martí	5
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	4
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	7
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	4
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	3
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	3
+Sant Martí	3
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	2
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Ciutat Vella	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Ciutat Vella	2
+Ciutat Vella	2
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	2
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	2
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	5
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	3
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	2
+Eixample	1
+Sants-Montjuïc	0
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Eixample	1
+Eixample	4
+Eixample	0
+Eixample	1
+Sants-Montjuïc	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Eixample	2
+Sants-Montjuïc	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Sants-Montjuïc	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	4
+Sants-Montjuïc	1
+Sants-Montjuïc	4
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	4
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	6
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Les Corts	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Sarrià-Sant Gervasi	2
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Gràcia	1
+Gràcia	2
+Gràcia	0
+Gràcia	1
+Sarrià-Sant Gervasi	1
+Gràcia	0
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	0
+Gràcia	4
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	0
+Gràcia	2
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	4
+Gràcia	1
+Gràcia	2
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	3
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Horta-Guinardó	6
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	3
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	4
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Nou Barris	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Nou Barris	1
+Nou Barris	3
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	0
+Nou Barris	0
+Nou Barris	1
+Nou Barris	3
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	2
+Nou Barris	3
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	3
+Nou Barris	4
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	3
+Nou Barris	0
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	4
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	3
+Nou Barris	1
+Nou Barris	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Nou Barris	3
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Unknown	1
+Unknown	1
+Unknown	1
+Unknown	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	5
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	0
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	4
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	5
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	4
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Ciutat Vella	1
+Sant Martí	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	3
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	4
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	4
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	7
+Ciutat Vella	1
+Ciutat Vella	3
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Eixample	1
+Eixample	1
+Eixample	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	6
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	0
+Eixample	0
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	2
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	2
+Eixample	1
+Sants-Montjuïc	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	4
+Sants-Montjuïc	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	3
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	2
+Sants-Montjuïc	3
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	4
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	4
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Les Corts	1
+Sants-Montjuïc	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	0
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Sarrià-Sant Gervasi	6
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Sarrià-Sant Gervasi	1
+Les Corts	1
+Les Corts	4
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	3
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Sarrià-Sant Gervasi	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	3
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	4
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	2
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	2
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Horta-Guinardó	1
+Gràcia	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	3
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Horta-Guinardó	1
+Horta-Guinardó	4
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	2
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	4
+Horta-Guinardó	0
+Horta-Guinardó	3
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	0
+Nou Barris	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	3
+Nou Barris	2
+Nou Barris	1
+Nou Barris	0
+Nou Barris	2
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	3
+Nou Barris	1
+Nou Barris	2
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	3
+Nou Barris	1
+Nou Barris	3
+Nou Barris	1
+Nou Barris	3
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	2
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	4
+Nou Barris	1
+Nou Barris	2
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	3
+Nou Barris	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	4
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Unknown	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	0
+Sant Martí	4
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	3
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	3
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	3
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	3
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	4
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	3
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	4
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	3
+Ciutat Vella	3
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Ciutat Vella	1
+Eixample	1
+Ciutat Vella	0
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Ciutat Vella	0
+Eixample	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	5
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	6
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Sants-Montjuïc	2
+Eixample	4
+Eixample	1
+Sants-Montjuïc	0
+Eixample	1
+Sants-Montjuïc	0
+Eixample	2
+Eixample	0
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Sants-Montjuïc	1
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	6
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	3
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	3
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	2
+Sants-Montjuïc	7
+Sants-Montjuïc	5
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	4
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Les Corts	1
+Sants-Montjuïc	1
+Les Corts	1
+Les Corts	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	3
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	0
+Sarrià-Sant Gervasi	1
+Les Corts	4
+Sarrià-Sant Gervasi	1
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Les Corts	1
+Les Corts	2
+Sarrià-Sant Gervasi	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	4
+Les Corts	2
+Les Corts	3
+Les Corts	2
+Les Corts	0
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	0
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	5
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Gràcia	1
+Gràcia	2
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	3
+Gràcia	0
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	3
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	3
+Gràcia	2
+Gràcia	1
+Horta-Guinardó	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Horta-Guinardó	3
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Nou Barris	1
+Horta-Guinardó	1
+Nou Barris	3
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	4
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	2
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	5
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	5
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	4
+Sant Andreu	2
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Unknown	1
+Unknown	1
+Unknown	1
+Unknown	1
+Unknown	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	5
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	4
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	0
+Sant Martí	0
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	4
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Ciutat Vella	1
+Sant Martí	1
+Sant Martí	1
+Ciutat Vella	2
+Ciutat Vella	0
+Ciutat Vella	3
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	0
+Ciutat Vella	2
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	3
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	3
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Eixample	3
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Ciutat Vella	1
+Ciutat Vella	1
+Eixample	1
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	7
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	5
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	7
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	5
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	4
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	6
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	3
+Sants-Montjuïc	1
+Les Corts	1
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Les Corts	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	0
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	4
+Les Corts	1
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Les Corts	2
+Les Corts	1
+Sarrià-Sant Gervasi	2
+Les Corts	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Les Corts	0
+Les Corts	2
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Sarrià-Sant Gervasi	2
+Gràcia	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	3
+Gràcia	2
+Gràcia	2
+Gràcia	0
+Gràcia	0
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	0
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Nou Barris	1
+Nou Barris	4
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	3
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	3
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	3
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	7
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Unknown	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	2
+Sant Martí	0
+Sant Martí	0
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	2
+Sant Martí	3
+Sant Martí	4
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	2
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	2
+Sant Martí	1
+Sant Martí	4
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Ciutat Vella	1
+Ciutat Vella	4
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Ciutat Vella	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Ciutat Vella	1
+Sant Martí	1
+Sant Martí	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	2
+Ciutat Vella	1
+Eixample	2
+Eixample	3
+Eixample	1
+Eixample	0
+Eixample	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Eixample	1
+Ciutat Vella	1
+Eixample	1
+Eixample	2
+Eixample	2
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	2
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	4
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	0
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Sants-Montjuïc	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	0
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	3
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	2
+Sants-Montjuïc	3
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	3
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	5
+Les Corts	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Les Corts	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	4
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	2
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	4
+Les Corts	1
+Les Corts	0
+Les Corts	2
+Les Corts	0
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	0
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Les Corts	0
+Les Corts	0
+Les Corts	2
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	0
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	0
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	5
+Sarrià-Sant Gervasi	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Gràcia	1
+Gràcia	2
+Gràcia	2
+Gràcia	2
+Gràcia	2
+Gràcia	1
+Gràcia	2
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	2
+Horta-Guinardó	4
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	4
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	0
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Nou Barris	1
+Horta-Guinardó	2
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	2
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	3
+Nou Barris	2
+Nou Barris	3
+Nou Barris	0
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	2
+Nou Barris	4
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	2
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	0
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Unknown	1
+Unknown	2
+Unknown	1
+Unknown	5
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	3
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	0
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Eixample	2
+Eixample	2
+Ciutat Vella	2
+Ciutat Vella	1
+Eixample	2
+Eixample	1
+Ciutat Vella	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	3
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	6
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Eixample	5
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	3
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Sants-Montjuïc	3
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	10
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	5
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	4
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	4
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Les Corts	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	6
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	6
+Les Corts	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Sarrià-Sant Gervasi	0
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Gràcia	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	0
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	5
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	3
+Nou Barris	2
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	3
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	0
+Nou Barris	1
+Nou Barris	2
+Nou Barris	2
+Nou Barris	0
+Nou Barris	1
+Nou Barris	2
+Nou Barris	5
+Nou Barris	2
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	2
+Nou Barris	3
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	3
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	5
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Unknown	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	3
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	5
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	5
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	3
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	2
+Sant Martí	1
+Sant Martí	3
+Sant Martí	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	0
+Sant Martí	2
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	4
+Sant Martí	0
+Sant Martí	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	2
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Sant Martí	2
+Sant Martí	0
+Sant Martí	0
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Ciutat Vella	1
+Sant Martí	2
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	1
+Sant Martí	2
+Ciutat Vella	0
+Sant Martí	0
+Sant Martí	0
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	3
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	2
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Eixample	1
+Ciutat Vella	2
+Ciutat Vella	0
+Eixample	2
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	1
+Ciutat Vella	0
+Eixample	3
+Eixample	1
+Ciutat Vella	0
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Ciutat Vella	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	5
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	2
+Eixample	5
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	0
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	5
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	0
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	0
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	4
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	3
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	0
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	0
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	2
+Eixample	0
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	2
+Eixample	1
+Eixample	1
+Eixample	1
+Eixample	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	7
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	3
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	2
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Les Corts	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Les Corts	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Les Corts	1
+Sants-Montjuïc	2
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	0
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	1
+Sants-Montjuïc	4
+Sants-Montjuïc	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	3
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	4
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Les Corts	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Les Corts	2
+Les Corts	2
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	0
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	4
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	7
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	3
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	0
+Les Corts	1
+Les Corts	1
+Les Corts	1
+Les Corts	2
+Les Corts	1
+Les Corts	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	3
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	4
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	2
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	0
+Sarrià-Sant Gervasi	1
+Sarrià-Sant Gervasi	1
+Gràcia	1
+Gràcia	1
+Gràcia	3
+Gràcia	0
+Gràcia	0
+Gràcia	1
+Sarrià-Sant Gervasi	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	2
+Gràcia	2
+Gràcia	1
+Gràcia	2
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	2
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	0
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	0
+Gràcia	2
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	3
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Horta-Guinardó	2
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Gràcia	1
+Gràcia	0
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	1
+Gràcia	2
+Gràcia	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	2
+Horta-Guinardó	3
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	2
+Horta-Guinardó	0
+Horta-Guinardó	3
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	1
+Horta-Guinardó	2
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Horta-Guinardó	0
+Horta-Guinardó	2
+Nou Barris	2
+Horta-Guinardó	1
+Nou Barris	0
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	1
+Horta-Guinardó	0
+Nou Barris	3
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	3
+Nou Barris	2
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	1
+Nou Barris	0
+Nou Barris	1
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	0
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	4
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	2
+Nou Barris	2
+Nou Barris	4
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Nou Barris	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	3
+Sant Andreu	1
+Sant Andreu	10
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	0
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	2
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	1
+Sant Andreu	0
