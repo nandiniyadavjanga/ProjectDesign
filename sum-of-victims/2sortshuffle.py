@@ -8,7 +8,7 @@ dataList = unsorted.readlines()
 dataList.sort()
 
 for line in dataList:
-    print (line)
+    #print (line)
     sorted.write(line)
 
 unsorted.close()

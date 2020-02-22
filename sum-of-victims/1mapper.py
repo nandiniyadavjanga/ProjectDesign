@@ -6,7 +6,8 @@ count = 0
 for line in input:
     datalist = line.strip().split(",")
     id, district,weekday, month, day, hour, partoftheday,mild, serious, victims, vehiclesinvolved = datalist
-   #writing only required columns into the output file 
+    #writing only required columns into the output file 
+    #print(district + "\t" + victims + "\n")
     output.write(district + "\t" + victims + "\n")
 
 
