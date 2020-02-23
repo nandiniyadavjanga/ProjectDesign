@@ -30,8 +30,9 @@ Our data has 11 columns and 10339 rows. The volume of data is 1.69MB. It is stru
 
   3. Reducer output:  example of a final key, value pair output by reducer.
      - Ciutat Vella	634
-   4. Chart I will use to display results
+  4. Chart I will use to display results
      - I will use clustered column chart to display my results.
+     ![Clustered Column Chart](https://github.com/nandiniyadavjanga/ProjectDesign/blob/master/sum-of-victims/screenshots/Sumofvictimschart.PNG)
 ### Chaitra Vemula
 1. For each Month, I will find the average of victims. 
 2. Big Data Solution
