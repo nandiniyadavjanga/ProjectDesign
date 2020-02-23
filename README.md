@@ -16,21 +16,22 @@ Our data has 11 columns and 10339 rows. The volume of data is 1.69MB. It is stru
 
 ## Big Data Problems
 ### Nandini Yadav Janga
-1. For each Category, I will find the sum of reviews. 
+1. For each district, I will find the sum of victims. 
 2. Big Data Solution
    1. Mapper input: One line of data that mapper read:
-     - Photo Editor & Candy Camera & Grid & ScrapBook	ART_AND_DESIGN	4.1	159	19M	10,000+	Free	0	Everyone	Art & Design	7-Jan-18	1.0.0	4.0.3 and up
-   2. Mapper output/Reducer input: example of an intermediate key,value pair output by mapper
-     * ART_AND_DESIGN	159
-     * ART_AND_DESIGN	967
-     * ART_AND_DESIGN	87510
-     * ART_AND_DESIGN	215644
-     * ART_AND_DESIGN	967
+     - 2017S001190  Nou Barris  Monday  February  13  11  Morning  1	  0	1	3
 
-   3. Reducer output:  example of a final key, value pair output by reducer.
-     - Category = ART_AND_DESIGN   sum of reviews = 1714440
+   2. Mapper output/Reducer input: example of an intermediate key,value pair output by mapper
+    * Ciutat Vella	1
+    * Ciutat Vella	1
+    * Eixample	1
+    * Ciutat Vella	0
+    * Ciutat Vella	1
+
+  3. Reducer output:  example of a final key, value pair output by reducer.
+     - Ciutat Vella	634
    4. Chart I will use to display results
-     - I will use Clustered Column Chart to display my results.
+     - I will use clustered column chart to display my results.
 ### Chaitra Vemula
 1. For each Month, I will find the average of victims. 
 2. Big Data Solution
