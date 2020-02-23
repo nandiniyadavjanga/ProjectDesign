@@ -50,20 +50,23 @@ Our data has 11 columns and 10339 rows. The volume of data is 1.69MB. It is stru
    4. Chart I will use to display results
      - I will use Bar Chart to display my results.
 ### Abhishek Telugu
-1. For each Category, I will find minimum rating. 
+1. For each Month, I will find the maximum of victims. 
 2. Big Data Solution
    1. Mapper input: One line of data that mapper read:
-     - Photo Editor & Candy Camera & Grid & ScrapBook	ART_AND_DESIGN	4.1	159	19M	10,000+	Free	0	Everyone	Art & Design	7-Jan-18	1.0.0	4.0.3 and up
-   2. Mapper output/Reducer input: example of an intermediate key,value pair output by mapper
-    * ART_AND_DESIGN        4.1
-    * ART_AND_DESIGN        4.4
-    * AUTO_AND_VEHICLES     3.8
-    * AUTO_AND_VEHICLES     4.1
-    * AUTO_AND_VEHICLES     4.4
+     - 2017S001190  Nou Barris  Monday  February  13  11  Morning  1	  0	1	3
 
-   3. Reducer output:  example of a final key, value pair output by reducer.
-     - Category = ART_AND_DESIGN     minimum rating = 3.2
+   2. Mapper output/Reducer input: example of an intermediate key,value pair output by mapper
+   
+    * October	2
+    * September	2
+    * December	5
+    * July	1
+    * May	1
+    * September	1
+    * May	1
+
+  3. Reducer output:  example of a final key, value pair output by reducer.
+     - May	6.0
    4. Chart I will use to display results
      - I will use Bar Chart to display my results.
-
 
