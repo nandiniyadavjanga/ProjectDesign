@@ -26,7 +26,7 @@ Our data has 11 columns and 10339 rows. The volume of data is 1.69MB. It is stru
      - Install MS Excel
   
  ## Sequence of steps for execution:
-     - Select a structured data set from https://www.kaggle.com which is in csv format.
+   - Select a structured data set from https://www.kaggle.com which is in csv format.
      - Make sure python is installed using command prompt as an administrator using command: choco install python -y
      - Create mapper and reducer python files for each problem and write appropriate code corresponding to mapper and reducer.
      - In the project folder right click and then click open powershell here as administrator.
