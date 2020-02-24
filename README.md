@@ -5,32 +5,57 @@
 1. Nandini Yadav Janga
 1. Chaitra Vemula
 1. Abhishek Telugu
+
+##### Course Description: Through this course we can analyse very big data using Map-Reduce approach.Through Map-Reduce we can take out the columns we want to analyse from the whole data using mapper and can perform some aggregate functions on those columns using reducer.
+
 ## Links:
 1. [GitHub Project Link](https://github.com/nandiniyadavjanga/ProjectDesign)
 1. [GitHub Issue Tracker](https://github.com/nandiniyadavjanga/ProjectDesign/issues)
+
 ## Introduction: 
 We are working on the data which gives information about the list of accidents handled by Barcelona police, incorporates the number of injuries by severity, the number of vehicles and the point of impact.
+
 ## DataSource: 
 Our data has 11 columns and 10339 rows. The volume of data is 1.69MB. It is structured data set available in CSV format. The data is clean and not messy. The velocity of dataset is fast as it is updated monthly. From the datset we can know the impact of accidents on people in different districts by which proper measures can be taken to eradicate accidents in the future.
 - [Link to DataSource](https://www.kaggle.com/xvivancos/barcelona-data-sets#accidents_2017.csv)
 
+## Requirements:
+     - Install python3 version
+     - Install visual studio code
+     - Install power shell
+     - Install MS Excel
+  
+ ## Sequence of steps for execution:
+     - Select a structured data set from https://www.kaggle.com which is in csv format.
+     - Make sure python is installed using command prompt using command: python
+     - Create mapper and reducer python files for each problem and write relevant code into them.
+     - In a developer folder open powershell here as administrator.
+     - In powershell write command : python mapper.py
+     - After running mapper.py, run reducer.py file using command: python reducer.py
+     - Solution for the problem will be saved in reducerout.txt file.
+     - Copy the text from the reducerout.txt file and paste it in excel sheet.
+     - Select the data in excel sheet and go to insert to generate graph or chart.
+     - Select a best suitable graph type and generate the graph for the corresponding data.
+
 ## Big Data Problems
 ### Nandini Yadav Janga
-1. For each Category, I will find the sum of reviews. 
+1. For each district, I will find the sum of victims. 
 2. Big Data Solution
    1. Mapper input: One line of data that mapper read:
-     - Photo Editor & Candy Camera & Grid & ScrapBook	ART_AND_DESIGN	4.1	159	19M	10,000+	Free	0	Everyone	Art & Design	7-Jan-18	1.0.0	4.0.3 and up
-   2. Mapper output/Reducer input: example of an intermediate key,value pair output by mapper
-     * ART_AND_DESIGN	159
-     * ART_AND_DESIGN	967
-     * ART_AND_DESIGN	87510
-     * ART_AND_DESIGN	215644
-     * ART_AND_DESIGN	967
+     - 2017S001190  Nou Barris  Monday  February  13  11  Morning  1	  0	1	3
 
-   3. Reducer output:  example of a final key, value pair output by reducer.
-     - Category = ART_AND_DESIGN   sum of reviews = 1714440
-   4. Chart I will use to display results
-     - I will use Clustered Column Chart to display my results.
+   2. Mapper output/Reducer input: example of an intermediate key,value pair output by mapper
+    * Ciutat Vella	1
+    * Ciutat Vella	1
+    * Eixample	1
+    * Ciutat Vella	0
+    * Ciutat Vella	1
+
+  3. Reducer output:  example of a final key, value pair output by reducer.
+     - Ciutat Vella	634
+  4. Chart I will use to display results
+     - I will use clustered column chart to display my results.
+     ![Clustered Column Chart](https://github.com/nandiniyadavjanga/ProjectDesign/blob/master/sum-of-victims/screenshots/Sumofvictimschart.PNG)
 ### Chaitra Vemula
 1. For each Month, I will find the average of victims. 
 2. Big Data Solution
@@ -50,20 +75,23 @@ Our data has 11 columns and 10339 rows. The volume of data is 1.69MB. It is stru
    4. Chart I will use to display results
      - I will use Bar Chart to display my results.
 ### Abhishek Telugu
-1. For each Category, I will find minimum rating. 
+1. For each Month, I will find the maximum of victims. 
 2. Big Data Solution
    1. Mapper input: One line of data that mapper read:
-     - Photo Editor & Candy Camera & Grid & ScrapBook	ART_AND_DESIGN	4.1	159	19M	10,000+	Free	0	Everyone	Art & Design	7-Jan-18	1.0.0	4.0.3 and up
-   2. Mapper output/Reducer input: example of an intermediate key,value pair output by mapper
-    * ART_AND_DESIGN        4.1
-    * ART_AND_DESIGN        4.4
-    * AUTO_AND_VEHICLES     3.8
-    * AUTO_AND_VEHICLES     4.1
-    * AUTO_AND_VEHICLES     4.4
+     - 2017S001190  Nou Barris  Monday  February  13  11  Morning  1	  0	1	3
 
-   3. Reducer output:  example of a final key, value pair output by reducer.
-     - Category = ART_AND_DESIGN     minimum rating = 3.2
+   2. Mapper output/Reducer input: example of an intermediate key,value pair output by mapper
+   
+    * October	2
+    * September	2
+    * December	5
+    * July	1
+    * May	1
+    * September	1
+    * May	1
+
+  3. Reducer output:  example of a final key, value pair output by reducer.
+     - May	6.0
    4. Chart I will use to display results
      - I will use Bar Chart to display my results.
-
 
