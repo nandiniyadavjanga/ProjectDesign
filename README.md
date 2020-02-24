@@ -27,13 +27,13 @@ Our data has 11 columns and 10339 rows. The volume of data is 1.69MB. It is stru
   
  ## Sequence of steps for execution:
      - Select a structured data set from https://www.kaggle.com which is in csv format.
-     - Make sure python is installed using command prompt using command: python
-     - Create mapper and reducer python files for each problem and write relevant code into them.
-     - In a developer folder open powershell here as administrator.
-     - In powershell write command : python mapper.py
-     - After running mapper.py, run reducer.py file using command: python reducer.py
-     - Solution for the problem will be saved in reducerout.txt file.
-     - Copy the text from the reducerout.txt file and paste it in excel sheet.
+     - Make sure python is installed using command prompt as an administrator using command: choco install python -y
+     - Create mapper and reducer python files for each problem and write appropriate code corresponding to mapper and reducer.
+     - In the project folder right click and then click open powershell here as administrator.
+     - In powershell write command : python 1mapper.py
+     - After running 1mapper.py, run 3reducer.py file using command: python reducer.py
+     - Solution for the problem will be saved in 03.txt file as we used the project provied by Dr.Case as reference.
+     - Copy the text from the 03.txt file and paste it in excel sheet.
      - Select the data in excel sheet and go to insert to generate graph or chart.
      - Select a best suitable graph type and generate the graph for the corresponding data.
 
@@ -72,10 +72,11 @@ Our data has 11 columns and 10339 rows. The volume of data is 1.69MB. It is stru
 
   3. Reducer output:  example of a final key, value pair output by reducer.
      - April	0.027218934911242602
-   4. Chart I will use to display results
-     - I will use Bar Chart to display my results.
+   4. Chart: I will use to display results
+     - I will use Line Chart to display my results.
      
    ![Clustered Column Chart](https://github.com/nandiniyadavjanga/ProjectDesign/blob/master/average-of-victims/screenshots/Chart.PNG)
+
 ### Abhishek Telugu
 1. For each Month, I will find the maximum of victims. 
 2. Big Data Solution
