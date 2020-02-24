@@ -96,5 +96,7 @@ Our data has 11 columns and 10339 rows. The volume of data is 1.69MB. It is stru
   3. Reducer output:  example of a final key, value pair output by reducer.
      - May	6.0
    4. Chart I will use to display results
-     - I will use Bar Chart to display my results.
+     - I will use Clustered Column Chart to display my results.
+     
+  ![Clustered Column Chart](https://github.com/nandiniyadavjanga/ProjectDesign/blob/master/maximum-victims-monthly/Screenshots/maxOfVictims.JPG)
 
