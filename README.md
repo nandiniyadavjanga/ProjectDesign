@@ -74,7 +74,8 @@ Our data has 11 columns and 10339 rows. The volume of data is 1.69MB. It is stru
      - April	0.027218934911242602
    4. Chart I will use to display results
      - I will use Bar Chart to display my results.
-     ![Clustered Column Chart](https://github.com/nandiniyadavjanga/ProjectDesign/blob/master/average-of-victims/screenshots/Chart.PNG)
+     
+   ![Clustered Column Chart](https://github.com/nandiniyadavjanga/ProjectDesign/blob/master/average-of-victims/screenshots/Chart.PNG)
 ### Abhishek Telugu
 1. For each Month, I will find the maximum of victims. 
 2. Big Data Solution
